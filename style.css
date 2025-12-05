@@ -1,0 +1,74 @@
+.Jumbotron {
+    background-color: crimson;
+    color: darkblue;
+    text-align: center;
+    padding: 60px;
+    font-size: 20px;
+}
+nav {
+    background-color: silver;
+    padding: 6px;
+}
+nav li {
+    list-style: none;
+    display: inline;
+    margin-right: 80px;
+    margin-left: 80px;
+}
+nav a:hover {
+font-weight: bold;
+color: blue;
+font-size: 15PX;
+font-weight: 400PX;
+text-decoration: none;
+}
+body {
+    font-family:"Times New Roman", Times, serif;
+}
+h2 {
+    color: rgb(255, 0, 0) (252, 2, 2);
+}
+.card {
+    padding: 15px;
+    margin-top: 20px;
+    box-shadow: 0 4px 8px 0px darkblue; 
+    border-radius: 10px;
+}
+main {
+    padding: 0px;
+    overflow: auto;
+}
+#content {
+    width: 75%;
+    float: left;
+}
+.image {
+    width: 100%;
+    object-position: center;
+    object-fit: cover;
+    max-height: 200px;
+}
+aside {
+  width:20%;
+  float:right;
+  padding-left:0px;
+}
+.sosialmedia {
+  text-align:center;
+}
+body {
+    background-image: url("Untitled-removebg-preview.png");
+  background-repeat: no-repeat;
+  background-position: bottom right;
+  background-attachment: fixed;
+    background-size: 250px;
+}
+footer {
+    background-color: crimson;
+    color: darkblue;
+    height: 25px;
+    text-align: center;
+    padding: 40px;
+    font-size: 20px;
+
+}
